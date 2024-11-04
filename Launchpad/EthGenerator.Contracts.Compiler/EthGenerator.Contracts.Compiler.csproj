@@ -1,0 +1,280 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\draft-IERC1822.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\draft-IERC6093.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1155.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1155MetadataURI.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1155Receiver.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1271.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1363.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1363Receiver.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1363Spender.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC165.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1820Implementer.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1820Registry.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC1967.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC20.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC20Metadata.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC2309.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC2612.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC2981.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC3156.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC3156FlashBorrower.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC3156FlashLender.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC4626.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC4906.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC5267.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC5313.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC5805.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC6372.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC721.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC721Enumerable.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC721Metadata.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC721Receiver.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC777.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC777Recipient.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\IERC777Sender.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\interfaces\README.adoc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\ERC20.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC1363.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC20Burnable.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC20Capped.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC20FlashMint.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC20Pausable.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC20Permit.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC20Votes.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC20Wrapper.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\ERC4626.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\IERC20Metadata.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\extensions\IERC20Permit.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\IERC20.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\token\ERC20\utils\SafeERC20.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Address.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Arrays.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Base64.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Context.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Create2.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\cryptography\ECDSA.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\cryptography\EIP712.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\cryptography\Hashes.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\cryptography\MerkleProof.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\cryptography\MessageHashUtils.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\cryptography\SignatureChecker.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Errors.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\introspection\ERC165.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\introspection\ERC165Checker.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\introspection\IERC165.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\math\Math.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\math\SafeCast.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\math\SignedMath.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Multicall.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Nonces.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Packing.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Panic.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Pausable.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\README.adoc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\ReentrancyGuard.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\ReentrancyGuardTransient.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\ShortStrings.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\SlotDerivation.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\StorageSlot.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\Strings.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\BitMaps.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\Checkpoints.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\CircularBuffer.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\DoubleEndedQueue.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\EnumerableMap.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\EnumerableSet.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\MerkleTree.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\contracts\%40openzeppelin\contracts\utils\structs\Time.sol">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Support\solc-0_8_26.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+version: "3.3"
+services:
+  database:
+    image: mcr.microsoft.com/mssql/server
+    container_name: launchpad_database
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "abcd1234/"
+    restart: unless-stopped
+    expose:
+      - 1433
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql-data:/var/opt/mssql
+volumes:
+  sql-data:

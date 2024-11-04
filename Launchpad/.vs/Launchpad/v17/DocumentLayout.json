@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E10E7C2-84CD-483D-B5F3-DF0A05CE36AE}|EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\ethgenerator.contracts.compiler\\ethcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E10E7C2-84CD-483D-B5F3-DF0A05CE36AE}|EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj|solutionrelative:ethgenerator.contracts.compiler\\ethcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E10E7C2-84CD-483D-B5F3-DF0A05CE36AE}|EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\ethgenerator.contracts.compiler\\ethgenerator.contracts.compiler.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9E10E7C2-84CD-483D-B5F3-DF0A05CE36AE}|EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj|solutionrelative:ethgenerator.contracts.compiler\\ethgenerator.contracts.compiler.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A835B-FA69-429B-801F-41B8C9252E32}|Launchpad\\Launchpad.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\launchpad\\controllers\\erc20codegeneratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A835B-FA69-429B-801F-41B8C9252E32}|Launchpad\\Launchpad.csproj|solutionrelative:launchpad\\controllers\\erc20codegeneratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A835B-FA69-429B-801F-41B8C9252E32}|Launchpad\\Launchpad.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\launchpad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A835B-FA69-429B-801F-41B8C9252E32}|Launchpad\\Launchpad.csproj|solutionrelative:launchpad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Models\\ERC20Standard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeGenerator\\Models\\ERC20Standard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeGenerator\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Templates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeGenerator\\Templates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE933AD-7652-4AE2-AB45-F2574E7B481C}|Business\\Business.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\business\\businessobjects\\ierc20codegenerationbusinessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE933AD-7652-4AE2-AB45-F2574E7B481C}|Business\\Business.csproj|solutionrelative:business\\businessobjects\\ierc20codegenerationbusinessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE933AD-7652-4AE2-AB45-F2574E7B481C}|Business\\Business.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\business\\businessobjects\\erc20codegenerationbusinessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE933AD-7652-4AE2-AB45-F2574E7B481C}|Business\\Business.csproj|solutionrelative:business\\businessobjects\\erc20codegenerationbusinessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5D0E25-026B-43E1-83FD-336C4CE82222}|Data\\Data.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\data\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5D0E25-026B-43E1-83FD-336C4CE82222}|Data\\Data.csproj|solutionrelative:data\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5D0E25-026B-43E1-83FD-336C4CE82222}|Data\\Data.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E5D0E25-026B-43E1-83FD-336C4CE82222}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E067E2E-6FFE-4C94-AA96-76942B32FACC}|DataAcess\\DataAcess.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\dataacess\\base\\ibasedataacessobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E067E2E-6FFE-4C94-AA96-76942B32FACC}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\base\\ibasedataacessobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE933AD-7652-4AE2-AB45-F2574E7B481C}|Business\\Business.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\business\\base\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE933AD-7652-4AE2-AB45-F2574E7B481C}|Business\\Business.csproj|solutionrelative:business\\base\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A835B-FA69-429B-801F-41B8C9252E32}|Launchpad\\Launchpad.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\launchpad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E0A835B-FA69-429B-801F-41B8C9252E32}|Launchpad\\Launchpad.csproj|solutionrelative:launchpad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5D0E25-026B-43E1-83FD-336C4CE82222}|Data\\Data.csproj|c:\\users\\fabio\\source\\repos\\launchpad\\launchpad\\data\\context\\projectmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5D0E25-026B-43E1-83FD-336C4CE82222}|Data\\Data.csproj|solutionrelative:data\\context\\projectmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 903,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EthCompiler.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\EthGenerator.Contracts.Compiler\\EthCompiler.cs",
+              "RelativeDocumentMoniker": "EthGenerator.Contracts.Compiler\\EthCompiler.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\EthGenerator.Contracts.Compiler\\EthCompiler.cs",
+              "RelativeToolTip": "EthGenerator.Contracts.Compiler\\EthCompiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:21:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EthGenerator.Contracts.Compiler",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj",
+              "RelativeDocumentMoniker": "EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj",
+              "RelativeToolTip": "EthGenerator.Contracts.Compiler\\EthGenerator.Contracts.Compiler.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T01:21:59.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Erc20CodeGenerationBusinessObject.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Business\\BusinessObjects\\Erc20CodeGenerationBusinessObject.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessObjects\\Erc20CodeGenerationBusinessObject.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Business\\BusinessObjects\\Erc20CodeGenerationBusinessObject.cs",
+              "RelativeToolTip": "Business\\BusinessObjects\\Erc20CodeGenerationBusinessObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:50:41.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Data\\Base\\Entity.cs",
+              "RelativeDocumentMoniker": "Data\\Base\\Entity.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Data\\Base\\Entity.cs",
+              "RelativeToolTip": "Data\\Base\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:46:39.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ERC20Standard.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Models\\ERC20Standard.cs",
+              "RelativeDocumentMoniker": "CodeGenerator\\Models\\ERC20Standard.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Models\\ERC20Standard.cs",
+              "RelativeToolTip": "CodeGenerator\\Models\\ERC20Standard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:45:22.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Models.cs",
+              "RelativeDocumentMoniker": "CodeGenerator\\Models.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Models.cs",
+              "RelativeToolTip": "CodeGenerator\\Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:45:12.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Templates.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Templates.cs",
+              "RelativeDocumentMoniker": "CodeGenerator\\Templates.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\CodeGenerator\\Templates.cs",
+              "RelativeToolTip": "CodeGenerator\\Templates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:45:11.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T09:43:16.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBaseDataAcessObjects.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\DataAcess\\Base\\IBaseDataAcessObjects.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Base\\IBaseDataAcessObjects.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\DataAcess\\Base\\IBaseDataAcessObjects.cs",
+              "RelativeToolTip": "DataAcess\\Base\\IBaseDataAcessObjects.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:37:37.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Launchpad\\Program.cs",
+              "RelativeDocumentMoniker": "Launchpad\\Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Launchpad\\Program.cs",
+              "RelativeToolTip": "Launchpad\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:37:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Business\\Base\\OperationResult.cs",
+              "RelativeDocumentMoniker": "Business\\Base\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Business\\Base\\OperationResult.cs",
+              "RelativeToolTip": "Business\\Base\\OperationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:55:37.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Erc20CodeGeneratorController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Launchpad\\Controllers\\Erc20CodeGeneratorController.cs",
+              "RelativeDocumentMoniker": "Launchpad\\Controllers\\Erc20CodeGeneratorController.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Launchpad\\Controllers\\Erc20CodeGeneratorController.cs",
+              "RelativeToolTip": "Launchpad\\Controllers\\Erc20CodeGeneratorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:37:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IErc20CodeGenerationBusinessObject.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Business\\BusinessObjects\\IErc20CodeGenerationBusinessObject.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessObjects\\IErc20CodeGenerationBusinessObject.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Business\\BusinessObjects\\IErc20CodeGenerationBusinessObject.cs",
+              "RelativeToolTip": "Business\\BusinessObjects\\IErc20CodeGenerationBusinessObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:51:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Launchpad\\appsettings.json",
+              "RelativeDocumentMoniker": "Launchpad\\appsettings.json",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Launchpad\\appsettings.json",
+              "RelativeToolTip": "Launchpad\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T09:37:37.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Data\\Context\\ProjectManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\ProjectManagementContext.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\LaunchPad\\Launchpad\\Data\\Context\\ProjectManagementContext.cs",
+              "RelativeToolTip": "Data\\Context\\ProjectManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:37:37.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

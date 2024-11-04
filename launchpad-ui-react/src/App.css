@@ -1,0 +1,70 @@
+h1 {
+  font-size: 44px;
+  color: #f9f9f9;
+  text-align: center;
+}
+
+form {
+  position: relative;
+  width: 400px; 
+  height: 600px;
+  margin: 0 auto;
+  border: 1px solid white; 
+  padding: 20px;
+  border-radius: 5px;
+  background-color: black;
+}
+
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: white; 
+}
+
+input[type="text" ], input[type="number"] {
+  width: calc(100% - 40px);
+  padding: 12px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  position:absolute;
+  bottom:10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:active {
+  background-color: #004080;
+}
+
+.textarea-contract-published{
+    width: 50%;
+    height: 50vh;
+    background-color: white;
+    color: black;
+    margin: auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.message-label{
+  align-items: center;
+}
